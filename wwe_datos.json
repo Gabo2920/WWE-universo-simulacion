@@ -1,0 +1,2390 @@
+{
+    "NXT": [
+        {
+            "nombre": "Aaron Fara",
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Adriana Rizzo ",
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        }
+    ],
+    "RAW": [
+        {
+            "nombre": "AJ Lee",
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Akira Tozawa",
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": "Alpha Academy",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        }
+    ],
+    "SmackDown": [
+        {
+            "nombre": "Alba Fyre",
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "Secret Service",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Aleister Black",
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "Evil",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Alex Shelley",
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "Motor City Machine guns ",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        }
+    ],
+    "AAA": [
+        {
+            "nombre": "Abismo Negro JR",
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Aerostar",
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        }
+    ],
+    "campeonatos": {
+        "RAW": [
+            {
+                "nombre": "Campeonato Mundial",
+                "campeon": "CM Punk",
+                "dias": 124
+            },
+            {
+                "nombre": "Campeonato Intercontinental (H)",
+                "campeon": "Penta",
+                "dias": 20
+            },
+            {
+                "nombre": "Campeonato Intercontinental (M)",
+                "campeon": "AJ Lee",
+                "dias": 30
+            },
+            {
+                "nombre": "Campeonato en Parejas (H)",
+                "campeon": "The Usos",
+                "dias": 66
+            },
+            {
+                "nombre": "Campeonato Mundial de Mujeres",
+                "campeon": "Stephanie Vaquer",
+                "dias": 166
+            },
+            {
+                "nombre": "Money in the Bank (H)",
+                "campeon": null,
+                "dias": 0
+            }
+        ],
+        "SmackDown": [
+            {
+                "nombre": "Campeonato WWE",
+                "campeon": "Randy Orton",
+                "dias": 50
+            },
+            {
+                "nombre": "Campeonato WWE Femenino",
+                "campeon": null,
+                "dias": 0
+            },
+            {
+                "nombre": "Campeonato en Parejas (H)",
+                "campeon": null,
+                "dias": 0
+            },
+            {
+                "nombre": "Campeonato de Estados Unidos (H)",
+                "campeon": null,
+                "dias": 0
+            },
+            {
+                "nombre": "Campeonato de Estados Unidos (M)",
+                "campeon": null,
+                "dias": 0
+            },
+            {
+                "nombre": "Money in the Bank (M)",
+                "campeon": null,
+                "dias": 0
+            }
+        ],
+        "Compartido RAW/SD": [
+            {
+                "nombre": "Campeonato en Parejas Femenino",
+                "campeon": null,
+                "dias": 0
+            }
+        ],
+        "NXT": [
+            {
+                "nombre": "Campeonato NXT",
+                "campeon": null,
+                "dias": 0
+            },
+            {
+                "nombre": "Campeonato NXT Femenino",
+                "campeon": null,
+                "dias": 0
+            },
+            {
+                "nombre": "Campeonato Norteamericano (H)",
+                "campeon": null,
+                "dias": 0
+            },
+            {
+                "nombre": "Campeonato Norteamericano (M)",
+                "campeon": null,
+                "dias": 0
+            },
+            {
+                "nombre": "Campeonato en Parejas (H)",
+                "campeon": null,
+                "dias": 0
+            },
+            {
+                "nombre": "Campeonato Speed (H)",
+                "campeon": null,
+                "dias": 0
+            },
+            {
+                "nombre": "Campeonato Speed (M)",
+                "campeon": null,
+                "dias": 0
+            }
+        ],
+        "AAA": [
+            {
+                "nombre": "Mega Campeonato",
+                "campeon": null,
+                "dias": 0
+            },
+            {
+                "nombre": "Campeonato Latinoamericano",
+                "campeon": null,
+                "dias": 0
+            },
+            {
+                "nombre": "Campeonato Mundial en Parejas (H)",
+                "campeon": null,
+                "dias": 0
+            },
+            {
+                "nombre": "Campeonato Mundial Peso Crucero",
+                "campeon": null,
+                "dias": 0
+            },
+            {
+                "nombre": "Reina de Reinas",
+                "campeon": null,
+                "dias": 0
+            }
+        ]
+    },
+    "luchadores": [
+        {
+            "nombre": "Aaron Fara",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Abismo Negro JR",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Adriana Rizzo",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Aerostar",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Aj Lee",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Aleister Black",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "Evil",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Arianna Grace",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Low Card",
+            "equipo": "Birthright",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Bayley Humphrey",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Blake Monroe",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Brad Baylor",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Tag Team",
+            "equipo": "Vanity Project",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Bravo Americano",
+            "marcas": [
+                "RAW",
+                "AAA"
+            ],
+            "alignment": "Heel",
+            "division": "Tag Team",
+            "equipo": "Los americanos",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Brie Bella",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Heel",
+            "division": "Tag Team",
+            "equipo": "The Bellas Twins",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Akira Tozawa",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "Alpha Academy",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Alba Fyre",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "Secret Service",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Alex Shelley",
+            "marcas": [
+                "SmackDown",
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "Motor City Machine Guns",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Alexa Bliss",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "Charlexa",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Andre chase",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": "Chase U",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Angel",
+            "marcas": [
+                "SmackDown",
+                "AAA"
+            ],
+            "alignment": "Heel",
+            "division": "Tag Team",
+            "equipo": "El legado del fantasma",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Angelo Dawkins",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "The street profits",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Apollo Crews",
+            "marcas": [
+                "SmackDown",
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Asuka",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Heel",
+            "division": "Tag Team",
+            "equipo": "Kabuki Warriors",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Austin Theory",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "The Vision",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Axiom",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "Fraxiom",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "B-Fab",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": "Michin & B-Fab",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Bayley",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "Bayley & Lyra",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Becky Lynch",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Heel",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Berto",
+            "marcas": [
+                "SmackDown",
+                "AAA"
+            ],
+            "alignment": "Heel",
+            "division": "Tag Team",
+            "equipo": "El legado del fantasma",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Brock Lesnar",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Heel",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Bron Breakker",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Heel",
+            "division": "Upper Card",
+            "equipo": "The Vision",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Bronco Nima",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "OTM",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Bronson Reed",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "The Vision",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Brooks Jensen",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Brutus Creed",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "American Made",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Candice LeRAE",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Carlee Bright",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Carmelo Hayes",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Chad Gable",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": "American Made",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Channing Stacks Lorenzo",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "Birthright",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Charlie Dempsey",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": "NQCC",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Charlotte Flair",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "Charlexa",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Chelsea Green",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "Secret Service",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Chik Tormenta",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Chris Island",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Chris Sabin",
+            "marcas": [
+                "SmackDown",
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "Motor City Machine Guns",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Cibernetico",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "CM Punk",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Face",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Cody Rhodes",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Face",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Cruz del toro",
+            "marcas": [
+                "RAW",
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "LWO",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Cutler James",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Tag Team",
+            "equipo": "Darkstate",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Damian Priest",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Danhausen",
+            "marcas": [
+                "NXT",
+                "RAW",
+                "SmackDown",
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Dani Raye",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Dante Chen",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Dave The Clown",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "Panic Clowns",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Dexter Lumis",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Tag Team",
+            "equipo": "Wyatt Sicks",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Dion Lennox",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Upper Card",
+            "equipo": "Darkstate",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Dominik Mysterio",
+            "marcas": [
+                "RAW",
+                "AAA"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "The Judgment Day",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Dragon Lee",
+            "marcas": [
+                "RAW",
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": "LWO",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Drew Mcintyre",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "El Grande Americano",
+            "marcas": [
+                "RAW",
+                "AAA"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "Los Americanos",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "El Hijo Del Vikingo",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Heel",
+            "division": "Upper Card",
+            "equipo": "El Nuevo Ojo",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "El Mesias",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Eli Knight",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Elijah Holyfield",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Elio Lefleur",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Erick Rowan",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "Wyatt Sicks",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Erik",
+            "marcas": [
+                "RAW",
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "War Raiders",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Ethan Page",
+            "marcas": [
+                "NXT",
+                "AAA"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Faby Apache",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Fallon Henley",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "Fatal Influence",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Finn Balor",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Face",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Galeno del mal",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Giulia",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "Giulia & Kiana",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Grayson Waller",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "The New Day",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Gunther",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Heel",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Hank Walker",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "Hank & Tank",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Hijo del DR Wagner JR",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Ilja Dragunov",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Ivar",
+            "marcas": [
+                "RAW",
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "War Raiders",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Ivy Nile",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "American Made",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Iyo Sky",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Face",
+            "division": "Upper Card",
+            "equipo": "Rhiyo",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Izzi Dame",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "The Culling",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Jack Cartwheel",
+            "marcas": [
+                "NXT",
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Jackson Drake",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Upper Card",
+            "equipo": "Vanity Project",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Jacob Fatu",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Face",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Jacy Jayne",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "Fatal influence",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Jade Cargill",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Jaida Parker",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Jasper Troy",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "JD Mcdonagh",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "The Judgment Day",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Jevon Evans",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "JC Mateo",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "MFT",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Jey Uso",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "The Usos",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Jimmy Uso",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "The Usos",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Joaquin Wilde",
+            "marcas": [
+                "RAW",
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "LWO",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Joe Gacy",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Tag Team",
+            "equipo": "Wyatt Sicks",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Joe Hendry",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Johnny Gargano",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Jordynne Grace",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Face",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Josh Briggs",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Julius Creed",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Heel",
+            "division": "Tag Team",
+            "equipo": "American Made",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Kairi Sane",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Heel",
+            "division": "Tag Team",
+            "equipo": "Kabuki Warriors",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Kale Dixon",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": "Chase U",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Karmen Petrovic",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Keanu Carver",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Kelani Jordan",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Kendal Grey",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Upper Card",
+            "equipo": "NQCC",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Kiana James",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "Giulia & Kiana",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Kit Wilson",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Kofi Kingston",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Heel",
+            "division": "Tag Team",
+            "equipo": "The New Day",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "La Hiedra",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Upper Card",
+            "equipo": "Las Toxicas",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "LA Knight",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Face",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Liv Morgan",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Heel",
+            "division": "Upper Card",
+            "equipo": "The Judgment Day",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "logan Paul",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "The Vision",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Lyra Valkyria",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "Bayley & Lyra",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Maxxine Dupri",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Nattie",
+            "marcas": [
+                "RAW",
+                "AAA"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Nikki Bella ",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Heel",
+            "division": "Tag Team",
+            "equipo": "The Bella Twins",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Otis",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "Alpha Academy",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Penta",
+            "marcas": [
+                "RAW",
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Raquel Rodriguez",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Heel",
+            "division": "Upper Card",
+            "equipo": "The Judgment Day",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Rayo Americano",
+            "marcas": [
+                "RAW",
+                "AAA"
+            ],
+            "alignment": "Heel",
+            "division": "Tag Team",
+            "equipo": "Los americanos",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Rey mysterio",
+            "marcas": [
+                "RAW",
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": "LWO",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Rhea Ripley",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Face",
+            "division": "Upper Card",
+            "equipo": "Rhiyo",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Roman Reigns",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Heel",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Roxxane Perez",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "The judgment Day",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Rusev",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Seth Rollins",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Face",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Stephanie Vaquer",
+            "marcas": [
+                "RAW"
+            ],
+            "alignment": "Face",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Uncle Howdy",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "Wyatt Sicks",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Lash Legend",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Tag Team",
+            "equipo": "Irresistble Forces",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Matt Cardona",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Michin",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": "Michin & B-Fab",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "The Miz",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Montez Ford",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "The Street Profits",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Nathan Frazer ",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "Fraxiom",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Nia Jax",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Tag Team",
+            "equipo": "Irresistble Forces",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Nikki Cross",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "Wyatt Sicks",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "R-truth",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Randy Orton",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Rey Fenix",
+            "marcas": [
+                "SmackDown",
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Sami Zayn",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Shinsuke Nakamaura",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Solo Sikoa",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "MFT",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Talla Tonga",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "MFT",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Tama Tonga",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Tag Team",
+            "equipo": "MFT",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Tiffany Stratton",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Face",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Tonga Loa",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Tag Team",
+            "equipo": "MFT",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Trick Williams",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Zelina",
+            "marcas": [
+                "SmackDown"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "Evil",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Lainey Reid",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Low Card",
+            "equipo": "Fatal influence",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Lexis King",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "Birthright",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Lola Vice",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Luca Crusifino",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Lucien Price",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "OTM",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Myles Borne",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Nikkita Lyons",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Niko Vance",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Tag Team",
+            "equipo": "The Culling",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Osiris Griffin",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Tag Team",
+            "equipo": "Darkstate",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Ricky Saints",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Ricky Smokes",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Tag Team",
+            "equipo": "Vanity Project",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Saquon Shugars",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Tag Team",
+            "equipo": "Darkstate",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Shawn Spears",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Tag Team",
+            "equipo": "The Culling",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Shiloh hill",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Sirena Linton",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Soluca",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Sean Legacy",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Tank Ledger",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "Hank & Tank",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Tatum Paxley",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Tavion Heights",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Thea Hail",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Tony D´Angelo",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Tyra Mae Steele",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Ulka Sasaki",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Uriah Connors",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Low Card",
+            "equipo": "Birthright",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Wendy Choo",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Wren Sinclair",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": "NQCC",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Zaria",
+            "marcas": [
+                "NXT"
+            ],
+            "alignment": "Heel",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Lady Maravilla",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Upper Card",
+            "equipo": "Las Toxicas",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Lady Shani",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Upper Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Laredo Kid",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": "Guerreros Azteca",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Lince Dorado",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Monster Clown",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "Panic Clowns",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Mr Iguana",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Murder Clown",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "Panic Clowns",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Niño Hamburguesa",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Octagon JR",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": "Guerreros Azteca",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Omos",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "El gran ojo",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Pagano",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "Clowns",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Panic Clown",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "Panic Clowns",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Pimpinela Escarlata",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Psycho Clown",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Face",
+            "division": "Tag Team",
+            "equipo": "Clowns",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Santos Escobar",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Heel",
+            "division": "Mid Card",
+            "equipo": "El legado del fantasma",
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "TJ Perkins",
+            "marcas": [
+                "AAA"
+            ],
+            "alignment": "Heel",
+            "division": "Low Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        },
+        {
+            "nombre": "Oba Femi",
+            "marcas": [
+                "SmackDown",
+                "RAW"
+            ],
+            "alignment": "Face",
+            "division": "Mid Card",
+            "equipo": null,
+            "campeonatos_actuales": [],
+            "historial_campeonatos": []
+        }
+    ]
+}
